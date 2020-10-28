@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: example-pkg-YOUR-USERNAME-HERE
+Version: 0.0.1
+Summary: A collection of data science functions
+Home-page: https://github.com/Bada-S/lamdata-20
+Author: Bada-S
+Author-email: author@example.com
+License: UNKNOWN
+Description: # lamdata-20
+        Sprint 3 unit 1 repo to learn about packages
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
